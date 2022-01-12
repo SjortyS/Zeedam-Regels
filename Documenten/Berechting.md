@@ -74,7 +74,8 @@ Artikel 311 – gekwalificeerde diefstal
 Artikel 312 – Diefstal met geweld
 Artikel 319 - Voertuigdiefst
 
-# Strafrecht -> Maximum van 80 maanden bij cel- en taakstraffen
+# Strafrecht
+(Maximum van 80 maanden)
 
 ### Geldboete:
 * Hinderen Politie: Boete uitschrijven vanuit F6
