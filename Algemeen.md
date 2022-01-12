@@ -30,7 +30,7 @@
 
 ### Artikel 1.3 Strafbepaling
 
-1. De straffen zijn onderverdeeld in '' gradaties.
+1. De straffen zijn onderverdeeld in 7 gradaties.
 * Gradatie 1: Een mondelinge of schriftelijke waarschuwing
     * (Deze hebben beide deze waarde en kracht)
     * (3 Waarschuwingen in 1 maand zal resulteren in een ban van 1 dag. Dit kan steeds verder oplopen.)
