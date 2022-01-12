@@ -190,7 +190,7 @@
 *    Het is verboden als overheidsdienst corrupt te zijn.
 *    Het is verboden met voertuigen gebouwen in te rijden.
 *    Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen.
-*     Het misbruiken van perms zal direct leiden tot een demote!
+*    Het misbruiken van perms zal direct leiden tot een demote!
 *    En alle andere vergrijpen.
 
 Let op: Regels zijn altijd onder voorbehoud en kunnen op elk willekeurig moment worden gewijzigd.
