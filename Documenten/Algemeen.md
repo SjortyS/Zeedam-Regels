@@ -175,3 +175,22 @@
 3. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 2e gradatie.
 4. Artikel 3.4.3 wordt aangeduid als RDM
 5. Wanneer een Artikel 3.4.3 meerdere malen is gebeurd, zal het wapen daarbij in beslag worden genomen.
+
+### In het kort:
+*    Geen FailRP 
+*    Geen VDM (Je voertuig als moordwapen gebruiken.)
+*    Geen RDM (iemand zonder reden dood maken)
+*    Geen Cheats
+*    Geen Exploits
+*    Niet trollen
+*    Geen Metagaming
+*    Geen cop-baiting
+*    Geen Misbruik van bugs/glitches
+*    Het is verboden een ambulancier of ANWB’er te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+*    Het is verboden als overheidsdienst corrupt te zijn.
+*    Het is verboden met voertuigen gebouwen in te rijden.
+*    Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen.
+*     Het misbruiken van perms zal direct leiden tot een demote!
+*    En alle andere vergrijpen.
+
+Let op: Regels zijn altijd onder voorbehoud en kunnen op elk willekeurig moment worden gewijzigd.
