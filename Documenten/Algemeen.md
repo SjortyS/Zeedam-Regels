@@ -159,11 +159,15 @@
 2. Armen mogen ten allen tijde niet uit de kleding steken. Dit wordt bestraft met gradatie 1.
 3. Het imiteren van kleding van een ambternaar in functie zal bestraft worden met gradatie 2.
 4. Artikel 3.2.3 zal worden beschreven met FailRP.
+5. Er mag geen makser worden gedragen in het openbaar, wanneer er geen illegale activiteiten bezig zijn. Dit wordt bestraft met gradatie 1.
 
 ### Artikel 3.3 Systeem
 1. Hij/zij die cheats/modmenu gebruikt zal een straf van gradatie 6 ontvangen.
-2. Hij/zij die gebruik maakt van een bug zal een straf van gradatie 6 ontvangen.
-3. Hij/zij die de AFK-Timer probeert te omzeilen, zal een straf van gradatie 2 ontvangen.
+2. Hij/zij die gebruikt maakt van software van derde partijen zal een straf ontvangen van gradatie 6.
+    * Crosshair
+3. Hij/zij die gebruik maakt van een bug zal een straf van gradatie 6 ontvangen.
+4. Hij/zij die de AFK-Timer probeert te omzeilen, zal een straf van gradatie 2 ontvangen.
+5. Dit geldt ook voor de Discord client zelf, dus gebruik van clients als BetterDiscord is niet toegestaan.
 
 ### Artikel 3.4 Schade aan de Persoon
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e gradatatie tot en met de 6de gradatie.
