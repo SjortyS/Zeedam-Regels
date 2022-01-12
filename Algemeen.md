@@ -20,7 +20,7 @@
 ### Artikel 1.1 Reikwijdte
 
 1. De regels van Zeedam strekken van de Discord server tot aan de Zeedam Roleplay server. Bij de roleplay server vallen daar de gemeente, het eiland en de stad Zeedam.
-2. Dit is een aanvulling van het Nederlands Wetboek, dat ten allen tijde gevold hoort te worden. Bestraffingen van het overschreiden van deze regels kan en zal binnen en buiten "RP" gebeuren.
+2. Dit is een aanvulling van het Nederlands Wetboek, dat ten allen tijde gevolgd hoort te worden. Bestraffingen van het overschreiden van deze regels kan en zal binnen en buiten "RP" gebeuren.
 
 ### Artikel 1.2 Geldigheid
 1. Bij aanpassingen aan de wetgeving worden deze pas geldig na 24 uur van de tijd van de aanpassing. Dit kan ten allen tijde overschreven worden door de Beheerders en Hoofd-Management.
