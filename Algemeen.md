@@ -40,7 +40,7 @@
 * Gradatie 5: Een maximale ban van 30 dagen.
 * Gradatie 6: Een permanente ban
 * Gradatie 7: Een account wipe
-    * (Deze bestraffing kan in combinatie zijn met alle hiervoor genoemde gradaties)
+    * (Deze bestraffing kan in combinatie zijn met alle hiervoor genoemde gradaties + Hoeft niet genoteerd te staan in een artikel om uitgevoerd te worden)
 2. Straffen kunnen preventief worden uitgevoerd, wanneer de verdachte op heterdaad wordt betrapt
 3. Wanneer een staff-lid boven de maximale tijd van een gradatie gaat, zal dit worden overlegd met de hogere staff van Zeedam en wordt dit beoordeeld of dit de correcte en juiste manier was.
 4. Een staff-lid kan deze straf verhogen/verlagen op basis van de context en/of vorige straffen.
@@ -82,6 +82,11 @@
     * Hij/zij die wegrent wanneer er een steekwapen getrokken wordt in armlengte.
     * Hij/zij die opzettelijk met hoge snelheid de muur in rijdt.
     * Hij/zij die opzettelijk van hoge hoogtes afspringt.
+    * Met een helikopter vlak boven de grond zweven en mensen laten in- en uitstappen.
+    * Indrukken noodknop wanneer er een wapen op je getrokken staat.
+    * Het is **GEEN** No Value Of Life, wanneer iemaand in de auto blijft ziiten als de deuren dicht zijn en er een steekwapen getrokken wordt.
+    * Het is **GEEN** No Value Of Life, wanneer iemand een vuurwapen trekt als bedreigd wordt door een steekwapen buiten armbereik.
+3. Hij/zij die zelfmoord pleegt zal een straf krijgen van gradatie 4 en gradatie 7.
 
 ### Artikel 2.4 Meta-Gaming
 1. Het gebruiken van informatie dat buiten karakter is verkregen. Dit wordt bestraft met gradatie 2.
@@ -92,8 +97,9 @@
 
 ### Artikel 2.6 Banen
 1. Het wisselen tussen banen staat een timer op van 1 week. Hier vallen UWV banen buiten.
+    * Er moet dus 1 week tussen de nieuwe baan zitten. Ook als je van ambtenaar naar crimnele organisatie gaat. En vice versa.
 2. Je mag maar 1 whitelisted job hebben.
-3. Het is ten allen tijde verboden als overheidsdienst corrupt te zijn. Dit wordt bestraft met gradatie 4, onstlag van dit beroep en een timer van 1 maand waarin de persoon deze baan niet meer mag hebben.
+3. Het is ten allen tijde verboden als overheidsdienst corrupt te zijn. Dit wordt bestraft met gradatie 4, onstlag van dit beroep en een timer van 1 maand waarin de persoon deze baan niet meer mag hebben. Deze straf kan afwijken na de ernst van deze overtreding.
 4. Voorbeelden:
     * Het doorverkopen van wapens/items als overheidsdienst.
     * Het laten omkopen door een burger.
@@ -117,6 +123,8 @@
 11. Het overtreden van deze Offroad regels zal bestraft worden met gradatie 2 en Artikel 2.7.9 wordt beschreven als GTA Style Driving.
 12. Het is niet toegestaan met een auto een gebouw in te gaan of te blokkeren. Dit wordt bestraft met gradatie 1.
 13. Hij/zij die te water gaat met een voertuig zal deze kwijt zijn voor 7 dagen en 30% van de nieuwprijs moeten betalen bij een staff-lid.
+14. Het ten allen tijde verboden een overheidsvoertuig te stelen. Hier wordt bestraft met gradatie 2.
+15. Bij 1 lekke band mag er maximaal 100 km/h gereden worden. Bij 2 lekke banden mag de auto niet meer doorrijden. Dit wordt bestraft met gradatie 2.
 
 ### Artikel 2.8 Luchtvaart
 1. Bij onserieus gedrag met een vliegtuig/helikopter wordt deze per direct ingenomen door een staff-lid en bestraft met gradatie 3.
@@ -152,3 +160,14 @@
 3. Het imiteren van kleding van een ambternaar in functie zal bestraft worden met gradatie 2.
 4. Artikel 3.2.3 zal worden beschreven met FailRP.
 
+### Artikel 3.3 Systeem
+1. Hij/zij die cheats/modmenu gebruikt zal een straf van gradatie 6 ontvangen.
+2. Hij/zij die gebruik maakt van een bug zal een straf van gradatie 6 ontvangen.
+3. Hij/zij die de AFK-Timer probeert te omzeilen, zal een straf van gradatie 2 ontvangen.
+
+### Artikel 3.4 Schade aan de Persoon
+1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e gradatatie tot en met de 6de gradatie.
+2. Artikel 3.4.1 wordt aangeduid als VDM.
+3. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 2e gradatie.
+4. Artikel 3.4.3 wordt aangeduid als RDM
+5. Wanneer een Artikel 3.4.3 meerdere malen is gebeurd, zal het wapen daarbij in beslag worden genomen.
