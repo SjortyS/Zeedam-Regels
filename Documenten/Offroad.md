@@ -2,7 +2,7 @@
 
 Verharde weg (V) -> Een verharde weg van asfalt of beton.
 Onverharde weg (O) -> Een onverharde weg of pad, waarvan de ondergrond bestaat uit zand.
-Offroad (OR) -> Een ondergrond van zand, gras of modder zonder duidelijk weg.
+Offroad (OR) -> Een ondergrond van zand, gras of modder zonder duidelijke weg.
 
 Op "O" wordt maximaal 120 km/h gereden.
 Op "OR" wordt maximaal 100 km/h gereden.
