@@ -142,10 +142,11 @@
 3. Het gebruik van een soundbord is niet toegestaan. Dit zal resulteren in een kick of straf van gradatie 1.
 4. Er wordt ten allen tijde Nederlands gesproken. Dit wordt bestraft met gradatie 1.
 5. Het uitschelden van iemand via spraak of tekst kan leiden tot een straf van gradatie 2 tot en met gradatie 6. Dit wordt per casus bekeken.
-6. Het spammen van overheidsmeldingen en/of geen serieuze meldingen maken zal leiden tot een bestraffing van gradatie 2.
-7. Het misbruiken van "/report" of andere synoniemen zal bestraft worden met gradatie 2.
-8. Het is verboden te praten over illegale activiteiten in Twitter. Ook niet wanneer er gebruik gemaakt wodt van codewoorden. Dit wordt bestraft met gradatie 1.
-9. Het gebruik maken van "ano" en/of "vpn" in Twitter heeft geen effect en mag genegeerd worden door iedereen.
+6. Het hebben/gebruiken van een aanstotende Steam-naam zal resulteren om de mogelijkheid te hebben deze te veranderen. Wordt deze niet veranderd zal dit bestraft worden met gradatie 3.
+7. Het spammen van overheidsmeldingen en/of geen serieuze meldingen maken zal leiden tot een bestraffing van gradatie 2.
+8. Het misbruiken van "/report" of andere synoniemen zal bestraft worden met gradatie 2.
+9. Het is verboden te praten over illegale activiteiten in Twitter. Ook niet wanneer er gebruik gemaakt wodt van codewoorden. Dit wordt bestraft met gradatie 1.
+10. Het gebruik maken van "ano" en/of "vpn" in Twitter heeft geen effect en mag genegeerd worden door iedereen.
 
 ### Artikel 3.1 Karakter
 1. Het is ten allen tijde verboden karakter te breken en daardoor "OOC" te gaan praten. Dit wordt bestraft met gradatie 2.
