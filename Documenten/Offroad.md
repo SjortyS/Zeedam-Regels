@@ -18,14 +18,19 @@ Onverharde weg (O):
 * Audi SQ7
 * Audi Q8/prior
 * Bentley Bentayga
+* BMW X5
 * BMW X6M
 * Jaguar EV400
-* Jaguar F*Pace
+* Jaguar F-Pace
 * Jeep Grand Cherokee
 * Jeep Trackhawk
 * Lamborghini Urus
 * Maserati Levante Novitec
 * Mercedes GLE 450
+* Mercedes GLE 53 Coupe
+* Mercedes GL63
+* Mercedes G800 
+* Mercedes G900
 * Suzuki Vitara
 * Porsche Cayenne
 * Porsche Macan
@@ -38,9 +43,11 @@ Offroad (OR):
 * Politie Amarok
 * Politie Offroad Motor
 * Politie G65 Unmarked (max 60 km/h)
+* Buggy
 * Sprinter busje (max 30 km/h)
 * Dodge Ram 2500
 * Ford F150
+* Ford F150 1978
 * Ford Raptor
 * Jeep Gladiator
 * Jeep Wrangler
@@ -49,15 +56,19 @@ Offroad (OR):
 * Mercedes G65 (max 60 km/h)
 * Mercedes G65 WB (max 60 km/h)
 * Mercedes G63 6X6
+* Mercedes Gronos G63 6X6
+* Mercedes G800 Off Road Editie
+* Mitsubishi Panjero 
 * Range Rover Evoque (max 60 km/h)
 * Range Rover Sport (max 60 km/h)
 * Range Rover Velar (max 60 km/h)
 * MiniBike
 * Sanchez
-* Quad (Mag alleen met Off*Road banden, anders “O”)
+* Quad (Mag alleen met Off Road banden, anders “O”)
 * Nissan Titan
 * Hummer H1
 * Hummer H2
+* Toyota Tonka
 
 Niet genoemde auto's mogen ALLEEN op "V" rijden.
 
