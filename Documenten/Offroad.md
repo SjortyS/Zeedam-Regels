@@ -66,8 +66,6 @@ Offroad (OR):
 * Sanchez
 * Quad (Mag alleen met Off Road banden, anders “O”)
 * Nissan Titan
-* Hummer H1
-* Hummer H2
 * Toyota Tonka
 
 Niet genoemde auto's mogen ALLEEN op "V" rijden.
