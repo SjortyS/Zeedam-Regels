@@ -81,33 +81,34 @@ R628b – Niet opvolgen stopteken politie
 * Hinderen Politie: Boete uitschrijven vanuit F6
 * Bezit drugs lijst 2 van Opiumwet: Boete uitschrijven vanuit F6 en innemen. (10-49 in bezit)
 
-### Taakstraffen:
-* Mishandeling: Max 20 taakstraffen
-* Poging tot Doodslag: 15 taakstraffen
-* Illegaal wapenbezit Kaliber 1: 20 taakstraffen
-* Afpersing of bedreiging: 20 taakstraffen
-* Plegen van een overval (Kaliber 1): 25 taakstraffen
-* Stelen van een voertuig: 8 taakstraffen
-* Vluchten Voor Politie: 10 taakstraffen
-* Medeplichtig Vluchten voor politie: 5 taakstraffen
-* Inbraak: 12 taakstraffen
-* Bezit drugs lijst 2 van Opiumwet: 5 taakstraffen per 30 teveel (50+ in bezit)
-* Bezit drugs lijst 1 van Opiumwet: 20 taakstraffen (1-49 in bezit)
+###*Taakstraffen:
+* Diefstal: 8 taakstraffen
+* Huisvredebreuk: 12 taakstraffen
+* Negeren stopteken: 10 taakstraffen
+* Medeplichtigheid negeren stopteken: 5 taakstraffen
+* Mishandeling: 15 taakstraffen
+*  Steek- en/of slagwapens: 20 taakstraffen (Messen, knuppel etc)
+* Afpersing: 20 taakstraffen
+* Bedreiging: 20 taakstraffen
+* Bedreiging ambtenaar in functie: 25 taakstraffen
+* Opiumwet softdrugs: 5 taakstraffen per 30 teveel (50+ in bezit)
+* Opiumwet harddrugs: 20 taakstraffen (1-49 in bezit)
 
-### Celstraffen
-* Zware Mishandeling: Max 25 Maanden 
-* Illegaal wapenbezit Kaliber 2: 25 maanden 
-* Illegaal wapenbezit Kaliber 3: 30 maanden 
-* Doodslag: 30 maanden 
-* Poging tot moord (vuurwapen) : 17 maanden 
-* Moord (Kaliber 1): 40 maanden
-* Moord (Kaliber 2 & 3): 50 maanden 
+###Celstraffen
 * Mishandeling ambtenaar in functie: 20 maanden
-* Poging tot Doodslag ambtenaar in functie: 14 maanden 
+* Zware Mishandeling: 25 maanden 
+* Zware mishandeling ambtenaar in functie: 30 maanden
+* Wet Wapen Munitie (WWM) Kaliber 1: 25 maanden (Pistolen)
+* Wet Wapen Munitie (WWM) Kaliber 2: 30 maanden (Automatisch VW)
+* Poging tot doodslag: 20 maanden
+* Doodslag: 30 maanden 
+* Poging tot moord : 30 maanden 
+* Moord (Kaliber 1): 40 maanden
+* Moord (Kaliber 2): 50 maanden 
+* Poging tot doodslag ambtenaar in functie: 14 maanden 
 * Doodslag ambtenaar in functie: 34 maanden 
 * Poging tot moord ambtenaar in functie: 45 maanden
 * Moord ambtenaar in functie: 50 maanden 
-* Plegen van een overval(Kaliber 2 & 3): 25 maanden
-* Ontvoering Burger: 25 maanden
-* Ontvoering ambtenaar in functie: 30 maanden
-* Bezit drugs lijst 2 van Opiumwet: 15 maanden (50+ in bezit)
+* Diefstal met geweld: 25 maanden
+* Gijzeling: 25 maanden
+* Gijzeling ambtenaar in functie: 30 maanden 
