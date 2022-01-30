@@ -75,7 +75,7 @@ R628b – Niet opvolgen stopteken politie
 * Artikel 319 - Voertuigdiefst
 
 # Strafrecht
-(Maximum van 80 maanden)
+(Maximum van 90 maanden celstraf)
 
 ### Geldboete:
 * Hinderen Politie: Boete uitschrijven vanuit F6
