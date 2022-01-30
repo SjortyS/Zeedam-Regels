@@ -83,8 +83,8 @@ Artikel 319 - Voertuigdiefst
 
 ### Taakstraffen:
 * Mishandeling: Max 20 taakstraffen
-* Poging tot Doodslag (met vuist): 15 taakstraffen
-* Illegaal wapenbezit Kaliber 1: 20 taakstraffen (Messen,knuppel)
+* Poging tot Doodslag: 15 taakstraffen
+* Illegaal wapenbezit Kaliber 1: 20 taakstraffen
 * Afpersing of bedreiging: 20 taakstraffen
 * Plegen van een overval (Kaliber 1): 25 taakstraffen
 * Stelen van een voertuig: 8 taakstraffen
@@ -96,8 +96,8 @@ Artikel 319 - Voertuigdiefst
 
 ### Celstraffen
 * Zware Mishandeling: Max 25 Maanden 
-* Illegaal wapenbezit Kaliber 2: 25 maanden (Pistolen)
-* Illegaal wapenbezit Kaliber 3: 30 maanden (Automatisch VW)
+* Illegaal wapenbezit Kaliber 2: 25 maanden 
+* Illegaal wapenbezit Kaliber 3: 30 maanden 
 * Doodslag: 30 maanden 
 * Poging tot moord (vuurwapen) : 17 maanden 
 * Moord (Kaliber 1): 40 maanden
