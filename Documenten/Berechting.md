@@ -75,7 +75,9 @@ R628b – Niet opvolgen stopteken politie
 * Artikel 319 - Voertuigdiefst
 
 # Strafrecht
-(Maximum van 90 maanden celstraf)
+
+### Levenslang
+* De maximale straf die een veroordeeld persoon kan ontvangen is 90 maanden celstraf. Dit wordt verklaard met de term Levenslang
 
 ### Geldboete:
 * Hinderen Politie: Boete uitschrijven vanuit F6
