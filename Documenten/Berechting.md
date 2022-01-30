@@ -92,7 +92,7 @@ Artikel 319 - Voertuigdiefst
 * Medeplichtig Vluchten voor politie: 5 taakstraffen
 * Inbraak: 12 taakstraffen
 * Bezit drugs lijst 2 van Opiumwet: 5 taakstraffen per 30 teveel (50+ in bezit)
-* Bezit drugs lijst 1 van Opiumwet: 20 taakstraffen (1*49 in bezit)
+* Bezit drugs lijst 1 van Opiumwet: 20 taakstraffen (1-49 in bezit)
 
 ### Celstraffen
 * Zware Mishandeling: Max 25 Maanden 
