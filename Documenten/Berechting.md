@@ -81,7 +81,7 @@ R628b – Niet opvolgen stopteken politie
 * Hinderen Politie: Boete uitschrijven vanuit F6
 * Bezit drugs lijst 2 van Opiumwet: Boete uitschrijven vanuit F6 en innemen. (10-49 in bezit)
 
-###*Taakstraffen:
+### Taakstraffen:
 * Diefstal: 8 taakstraffen
 * Huisvredebreuk: 12 taakstraffen
 * Negeren stopteken: 10 taakstraffen
@@ -94,7 +94,7 @@ R628b – Niet opvolgen stopteken politie
 * Opiumwet softdrugs: 5 taakstraffen per 30 teveel (50+ in bezit)
 * Opiumwet harddrugs: 20 taakstraffen (1-49 in bezit)
 
-###Celstraffen
+### Celstraffen
 * Mishandeling ambtenaar in functie: 20 maanden
 * Zware Mishandeling: 25 maanden 
 * Zware mishandeling ambtenaar in functie: 30 maanden
